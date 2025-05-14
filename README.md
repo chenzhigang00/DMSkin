@@ -5,7 +5,7 @@
 [Wallpaper Maker](https://store.steampowered.com/app/1010800)
 
 
-<img src="https://raw.githubusercontent.com/944095635/DMSkin/master/Docs/Image/wall.jpg" align="center">
+
 
 
 # DMSkin
